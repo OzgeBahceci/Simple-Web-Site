@@ -1,5 +1,8 @@
+#SimpleWebSite
+---
+
 CSS ile oluşturulmuş basit web sitesi taslağı. Eğitim amaçlı oluşturulmuş bir site olup login sayfası, dersler ve hakkımızda bölümü bulunmaktadır.
-------
+-
 Simple web site draft with CSS. It is a site created for education and includes home page, tutorials and about us section.
 
 ![a1](https://user-images.githubusercontent.com/44605674/227925973-ca59dbe1-7762-4ce5-874f-b27f53635d4c.jpg)
